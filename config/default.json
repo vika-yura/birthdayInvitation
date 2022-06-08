@@ -1,0 +1,4 @@
+{
+  "port": 5000,
+  "postgresUrl": "http://localhost:5000"
+}
